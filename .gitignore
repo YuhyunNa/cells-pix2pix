@@ -12,7 +12,7 @@ dist/
 #results/
 build/
 dist/
-*.png
+#*.png
 >>>>>>> 90851e398b99153240aece453e50cc179cc2f4c9
 torch.egg-info/
 */**/__pycache__
