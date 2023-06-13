@@ -2,6 +2,8 @@
 debug*
 #datasets/
 checkpoints/
+/checkpoint
+checkpoint.tar
 cell_images/
 #results/
 docs/
