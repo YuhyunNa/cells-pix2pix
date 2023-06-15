@@ -19,7 +19,7 @@ Microblocks are initially present (‘before image’), and after a period of 72
 - x_images_final example
 ![](images/1147.png)
 
-To create a suitable dataset, we cropped the before and after images to a size of 1456x1456 pixels. We then merged them side by side, resulting in a final image size of 2912x1456 pixels.
+To create a suitable dataset, I cropped the before and after images to a size of 1456x1456 pixels. I then merged them side by side, resulting in a final image size of 2912x1456 pixels.
 
 
 The training process was conducted separately for success and failure cases, resulting in two different checkpoints (o_300_epochs, x_300_epochs).
